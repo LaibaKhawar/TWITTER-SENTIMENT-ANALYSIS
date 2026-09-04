@@ -1,0 +1,11 @@
+gensim
+jupyter
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+seaborn
+tqdm
+wordcloud
+xgboost
